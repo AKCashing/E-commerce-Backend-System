@@ -6,4 +6,4 @@ E-Commerce Backend System is repository involving starter code and filling in mi
 ![Image PNG](./images/image1.png)
 
 ## Link to Video Walkthrough
-![Video Link]()
+![Video Link](https://drive.google.com/file/d/165twidwjdM4cQQHIs5ylx3M9sroZ175F/view)
